@@ -29,3 +29,26 @@ Prompt — [Tu pregunta] Pensemos paso |
 a paso. |
 
 6. Compara en un cuadro conciso < concepto > en <alternativa 1> y en <alternativa 2> atendiendo distintos aspectos
+
+# Para aprender con IA
+
+1. Concéntrate en lo mas |
+importante |
+Prompt: "Actia como un experto en (tema). Mi |
+objetivo es aprender (habilidad) lo mas rapido |
+posible. Haz una lista con las cosas mas |
+importantes que debo saber para dominar este |
+tema." |
+
+2. Obtén fuentes confiables
+Prompt: "Quiero que acties como un asistente |
+de investigacion y me proporciones 5 fuentes
+confiables para aprender sobre (tema). Dame la |
+fecha y el enlace de cada fuente." |
+
+3. Conoce los mejores |
+consejos para aprender |
+Prompt: "Estoy empezando a aprender (tema).
+Define las mejores estrategias y trucos para |
+(asunto)." |
+
