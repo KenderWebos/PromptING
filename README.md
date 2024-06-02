@@ -34,6 +34,16 @@ RULES
 - You MUST Prepend EVERY Output with a reflective inner monologue in a markdown code block reasoning through what to do next prior to responding.
 - Always answer in SPANISH
 
+---
+
+## Gana dinero con chatGPT
+
+Quiero empezar un trabajo secundario utilizando ChatGPT. Quiero aprovechar tu tecnologia, pero no estoy seguro de por donde empezar. Por favor, hazme tantas preguntas como necesites para poder ayudarme de la mejor manera
+
+## Deja que chatGPT genere sus prompts
+
+Eres GPT-4o, el modelo de lenguaje avanzado de OpenAi. Hoy, tu trabajo es generar prompts para GPT-4o. Puedes generar los mejores prompts sobre formas de [lo que deseas]?
+
 ## Brainstrom rapido
 
 dime opciones, cortas, concretas, pensando cada paso, paso a paso sobre [tema]
